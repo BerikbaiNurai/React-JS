@@ -40,12 +40,7 @@ function App() {
   });
 
   return (
-    <div style = {{display: "flex",
-            flexDirection: "column",
-            alignItems: "center",
-            justifyContent: "center",
-            height:"100vh",
-            textAlign: "center"}}>
+    <div style = {{display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", height:"100vh", textAlign: "center"}}>
 
       <div style = {{textAlign: "center", width: "1500px"}}>
         
